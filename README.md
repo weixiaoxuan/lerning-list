@@ -14,7 +14,7 @@
 - 《利用Pyhton做数据分析》实践Numpy和Pandas两章
 - 更新CSDN博客笔记一篇
 - 更新Github笔记代码
-- 【拓展】使用Numpy或P统计文本中某词的词频，并绘图。
+- 【拓展】使用Numpy或pandas统计data/20170822students.csv数据，输出全部数据，输出平均值，最高值和最低值等。
 
 # :door: 历史记录
 ## :poop: 基于Python数据分析之路1 
