@@ -10,6 +10,11 @@
 
 # :pushpin: 今日任务
 日期：20180822
+基于Python数据分析之理论
+- 《利用Pyhton做数据分析》实践Numpy和Pandas两章
+- 更新CSDN博客笔记一篇
+- 更新Github笔记代码
+-【拓展】使用Numpy或P统计文本中某词的词频，并绘图。
 
 
 ## :poop: 基于Python数据分析之路1 
