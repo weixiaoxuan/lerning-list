@@ -5,18 +5,26 @@
 - :white_check_mark:  任务基本完成
 - :poop:  任务完成度很差或未完成
 - :100: 任务基本完成并自我拓展
-
+- :monkey_face: 任务完成度待定
 每晚9点清算当天任务完成度。
 
 # :pushpin: 今日任务
+
+## 基于Python数据分析之numpy
+日期：20180823
+- 完成Numpy学习章节
+- 完成jupyter ipython安装
+
+# :door: 历史记录
+
+## :monkey_face: 基于Python数据分析之理论
 日期：20180822
-基于Python数据分析之理论
 - 《利用Pyhton做数据分析》实践Numpy和Pandas两章
 - 更新CSDN博客笔记一篇
 - 更新Github笔记代码
 - 【拓展】使用Numpy或pandas统计data/20170822students.csv数据，输出全部数据，输出平均值，最高值和最低值等。
 
-# :door: 历史记录
+
 ## :poop: 基于Python数据分析之路1 
 日期：20180821
 
